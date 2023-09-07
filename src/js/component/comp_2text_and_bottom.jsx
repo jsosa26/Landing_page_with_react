@@ -1,6 +1,6 @@
 import React from "react";
 
-export const comp_2text_and_bottom = () => {     
+export const Comp2TextAndBottom = () => {     
     return (        
         
         
