@@ -11,10 +11,10 @@ export const comp_1_navbar = () => {
                 <div className="collapse navbar-collapse d-flex flex-row-reverse" 
                 id="navbarNavAltMarkup">
                     <div className="navbar-nav">
-                        <a className="nav-link active" aria-current="page" href="#">Home</a>
-                        <a className="nav-link" href="#">About</a>
-                        <a className="nav-link" href="#">Services</a>
-                        <a className="nav-link disabled">Contact</a>
+                        <a className="nav-link active" aria-current="page" href="#">inicio</a>
+                        <a className="nav-link" href="#">sobre nosotros</a>
+                        <a className="nav-link" href="#">servicios</a>
+                        <a className="nav-link disabled">contactanos</a>
                     </div>
                 </div>
             </div>
